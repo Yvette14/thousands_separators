@@ -54,5 +54,3 @@ function thousands_separators(num) {
 }
 
 module.exports = thousands_separators;
-
-console.log(thousands_separators());
